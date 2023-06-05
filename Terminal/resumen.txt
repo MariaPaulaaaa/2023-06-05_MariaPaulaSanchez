@@ -1,0 +1,5 @@
+git init: Permite inicializar un repositorio remoto a partir de uno local
+git push: Permite subir los cambios del repositorio local al remoto
+git pull: Permite acoger los cambios del repositorio remoto al local
+cd: Permite cambiar de directorio (cd significa change directory en inglés)
+mkdir: Permite crear un nuevo directorio

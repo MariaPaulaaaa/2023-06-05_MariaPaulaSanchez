@@ -1,0 +1,3 @@
+Motherboard: Es la placa madre del sistema, un conjunto de circuitos donde se conectan los otros componentes, como tarjetas de video o sonido
+RAM: Guarda los resultados del procesador, a mayor RAM, el computador tendrá mejor desempeño
+CPU: Es el cerebro de la computadora, que ejecuta operaciones matemáticas
