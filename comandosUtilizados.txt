@@ -1,0 +1,39 @@
+  226  cd  ..
+  227  cd Introducción\ a\ la\ informática/
+  228  mkdir 2023-06-05_MariaPaulaSanchez
+  229  cd 2023-06-05_MariaPaulaSanchez/
+  230  git remote add origin https://github.com/MariaPaulaaaa/2023-06-05_MariaPaulaSanchez.git
+  231  git init
+  232  git remote add origin https://github.com/MariaPaulaaaa/2023-06-05_MariaPaulaSanchez.git
+  233  touch comandos.txt main.js index.html
+  234  git add .
+  235  git commit -m "Commit 1 de MariaPaulaSanchez"
+  236  git push origin main
+  237  git checkout feature01
+  238  git checkout -b fueature01
+  239  git branch -m feature01
+  240  mkdir Terminal
+  241  mkdir Hardware
+  242  cd Hardware/
+  243  touch resumen.txt
+  244  cd ..
+  245  cd Terminal/
+  246  touch resumen.txt
+  247  git add .
+  248  git commit -m "Commit 2 de Maria Paula Sanchez"
+  249  git push origin feature01
+  250  git checkout -b feature02
+  251  git branch -d feature02
+  252  cd ..
+  253  git branch -d feature02
+  254  cd Terminal/resumen.txt 
+  255  cd Terminal/
+  256  cd ..
+  257  cd Hardware/
+  258  cd ..
+  259  git add .
+  260  git commit -m "Commit 3 Maria Paula Sanchez"
+  261  git push origin feature02
+  262  git checkout main
+  263  git mv comandos.txt comandosUtilizados.txt
+  264  history > comandosUtilizados.txt
